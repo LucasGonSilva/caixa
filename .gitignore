@@ -1,0 +1,4 @@
+backend_financeiro/node_modules/
+backend_financeiro/package-lock.json
+nbproject/
+.vscode/
